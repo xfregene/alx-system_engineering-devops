@@ -6,7 +6,7 @@
 5 - Listfilesdigitonly displays current directory content with user and group ID.  
 6 - firstdirectory creates a directory in the /tmp directory.  
 7 - Move that file moves the file betty to /tmp/my_first_directory. 
-8 - Firstdelet deletes the file betty.     
+8 - Firstdelete deletes the file betty.   
 9 - Firstdirdeletion deletes my_first_directory in /tmp.  
 10 - Back changes the working directory to the previous one.  
 11 - Lists lists all files.  
